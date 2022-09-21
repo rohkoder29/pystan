@@ -2,6 +2,7 @@
 A SIMPLE IMPLEMENTATION OF THE FAMOUS HANGMAN GAME
 """
 
+
 import json
 from collections import Counter
 from random import choice
@@ -13,7 +14,7 @@ secret_word = choice(words)
 
 print("GUESS THE WORD TO WIN!")
 
-for letter in secret_word:
+for _ in secret_word:
     print("_", end=" ")
 # print()
 

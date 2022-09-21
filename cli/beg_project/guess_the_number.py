@@ -13,7 +13,6 @@ from random import randint
 
 def play(attempts: int) -> None:
     """ Play the famous game. """
-    print("\nOkay let's get started, shall we?\n")
     m_min = 0
     m_max = 100
     while True:
@@ -46,7 +45,7 @@ def play(attempts: int) -> None:
 
 if __name__ == '__main__':
     print("\n\tWELCOME TO THE NUMBER GUESSER GAME\n")
-
+    print("\nOkay let's get started, shall we?\n")
     ATTEMPTS = 10
     magic_number = randint(0, 100)
     play(ATTEMPTS)
