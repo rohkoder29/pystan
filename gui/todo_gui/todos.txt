@@ -1,0 +1,5 @@
+run
+leave
+stay
+get away
+cry
