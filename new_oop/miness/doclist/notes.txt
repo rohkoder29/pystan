@@ -1,0 +1,23 @@
+Create a todo list
+
+* Collection 
+    - is a set of tasks
+    - has a name / title
+    - is kinda container
+    - has a state: completed or not
+        example: groceries
+    Actions: CRUD
+
+* Task
+    - step to complete a collection
+    - has a description
+        example: buy peaches
+    Actions: CRUD
+
+* Menu
+    - how things are being shown
+    (maybe use/learn the rich module)
+
+I guess I'll have to use regex to verify name / description of 
+collection / task
+

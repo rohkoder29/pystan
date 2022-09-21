@@ -1,0 +1,20 @@
+Concevoir et coder un modèle orienté objet d'une banque où il y a des comptes courants 
+qui ont un titulaire et quelques transactions. 
+Les clients peuvent être titulaires de plusieurs comptes à la fois. 
+Les transactions appartiennent à un seul compte. 
+Pour cela : 
+a) Créez la classe Client avec les attributs __id, __prenom et __nom. 
+b) Créez la classe Transaction avec les attributs __type et __montant. 
+    Les transactions sont immuables.
+c) Créez la classe Compte avec les attributs __numero, __titulaire, __transactions et __solde. 
+    - Un numéro de compte ne peut pas être modifié.
+    - Vous pouvez ajouter une transaction à un compte, mais vous ne pouvez pas modifier
+      ou supprimer des transactions.
+    - Le solde ne peut pas non plus être modifié directement, mais doit être mis à jour
+      à partir des transactions effectués sur le compte.
+d) Créez un module `principal.py` qui utilise les classes précédentes pour représenter
+    un modèle d'objet dynamique où le client Antonio Martínez a deux comptes courants, 
+    chacun avec trois transactions. Imprimez à l'écran le solde actuel de chaque compte.
+e) Comment mettre en place la génération automatique et incrémentale du numéro de compte
+    lors de la création d'un nouveau compte ? Codez-le. 
+    (Astuce : utilisez des attributs statiques.)
