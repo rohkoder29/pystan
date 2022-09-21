@@ -1,0 +1,49 @@
+[
+  {
+    "place_id": 96120441,
+    "osm_type": "way",
+    "osm_id": 4930487,
+    "type": "primary",
+    "accuracy": 0,
+    "label": "Welling High Street, Welling, London Borough of Bexley, London, Greater London, England, DA16 1TN, United Kingdom",
+    "name": "Welling High Street",
+    "country": "United Kingdom",
+    "postcode": "DA16 1TN",
+    "state": "England",
+    "county": "Greater London",
+    "city": "London",
+    "district": "Welling",
+    "admin": {
+      "level4": "England",
+      "level5": "Greater London",
+      "level6": "London",
+      "level8": "London Borough of Bexley"
+    },
+    "lat": "51.4624687",
+    "lon": "0.1079432"
+  },
+  {
+    "place_id": 165576655,
+    "osm_type": "way",
+    "osm_id": 258463820,
+    "type": "house",
+    "accuracy": 0,
+    "label": "52, Bourne Road, Bexley, London Borough of Bexley, London, Greater London, England, DA5 1LW, United Kingdom",
+    "country": "United Kingdom",
+    "postcode": "DA5 1LW",
+    "state": "England",
+    "county": "Greater London",
+    "city": "London",
+    "district": "Bexley",
+    "street": "Bourne Road",
+    "housenumber": "52",
+    "admin": {
+      "level4": "England",
+      "level5": "Greater London",
+      "level6": "London",
+      "level8": "London Borough of Bexley"
+    },
+    "lat": "51.4437637",
+    "lon": "0.15116269"
+  }
+]

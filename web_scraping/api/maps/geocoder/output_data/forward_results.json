@@ -1,0 +1,102 @@
+[
+  {
+    "requested data": "26 Coldharbour Lane, London",
+    "properties": {
+      "geocoding": {
+        "place_id": 224133261,
+        "osm_type": "way",
+        "osm_id": 590807592,
+        "type": "apartments",
+        "label": "King George Court, 26, Coldharbour Lane, Denmark Hill, Camberwell, London Borough of Southwark, London, Greater London, England, SE5 9SE, United Kingdom",
+        "name": "King George Court"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.09412250129038185,
+        51.47117935
+      ]
+    }
+  },
+  {
+    "requested data": "1 Holborn, London",
+    "properties": {
+      "geocoding": {
+        "place_id": 72015882,
+        "osm_type": "node",
+        "osm_id": 6794830920,
+        "type": "coffee",
+        "label": "Half Million Coffee, 1, Southampton Row, Gray's Inn, Holborn, London Borough of Camden, London, Greater London, England, WC1B 5HA, United Kingdom",
+        "name": "Half Million Coffee"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.120735,
+        51.518022
+      ]
+    }
+  },
+  {
+    "requested data": "england",
+    "properties": {
+      "geocoding": {
+        "place_id": 282210115,
+        "osm_type": "relation",
+        "osm_id": 58447,
+        "type": "administrative",
+        "label": "England, United Kingdom",
+        "name": "England"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.2649062,
+        52.5310214
+      ]
+    }
+  },
+  {
+    "requested data": "london",
+    "properties": {
+      "geocoding": {
+        "place_id": 283874303,
+        "osm_type": "node",
+        "osm_id": 107775,
+        "type": "city",
+        "label": "London, Greater London, England, SW1A 2DX, United Kingdom",
+        "name": "London"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.1276474,
+        51.5073219
+      ]
+    }
+  },
+  {
+    "requested data": "terek",
+    "properties": {
+      "geocoding": {
+        "place_id": 283087700,
+        "osm_type": "relation",
+        "osm_id": 5952247,
+        "type": "administrative",
+        "label": "\u0422\u0435\u0440\u0435\u043a, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435 \u0422\u0435\u0440\u0435\u043a, \u0422\u0435\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0431\u0430\u0440\u0434\u0438\u043d\u043e-\u0411\u0430\u043b\u043a\u0430\u0440\u0438\u044f, \u0421\u0435\u0432\u0435\u0440\u043e-\u041a\u0430\u0432\u043a\u0430\u0437\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 361202, \u0420\u043e\u0441\u0441\u0438\u044f",
+        "name": "\u0422\u0435\u0440\u0435\u043a"
+      }
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.1363776,
+        43.4826692
+      ]
+    }
+  }
+]
