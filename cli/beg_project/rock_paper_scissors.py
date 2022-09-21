@@ -6,10 +6,9 @@
 
 from random import choice
 
-def validate_choice():
-    """ This function makes sure the user has chosen either rock, paper or scissors.\n
-    Takes no arguments.\n
-    Returns the user's choice.\n
+def validate_choice() -> str | None:
+    """ This function ensures the user has chosen either rock, paper or scissors.
+    It takes no arguments and returns the user's choice.
     Raises an error if user inputs any value other than those mentioned above. """
     while 1:
         user_choice = input("Play [rock, paper or scissors]: ").lower()
@@ -34,17 +33,17 @@ def playing(turn: int, user_choice: str, cpu_choice: str) -> (int | None):
         # print(f"CPU chose {cpu_choice}")
         print("That's a tie.")
         return None
-    if cpu_choice == "rock" and user_choice != "paper":
+    elif cpu_choice == "rock" and user_choice != "paper":
         # print(f"You chose {user_choice} and CPU chose rock.")
         print("Rock breaks scissors.")
         print("You Lost.")
         return None
-    if cpu_choice == "paper" and user_choice != "scissors":
+    elif cpu_choice == "paper" and user_choice != "scissors":
         # print(f"You chose {user_choice} and CPU chose paper.")
         print("Paper wraps rock.")
         print("You Lost.")
         return None
-    if cpu_choice == "scissors" and user_choice != "rock":
+    elif cpu_choice == "scissors" and user_choice != "rock":
         # print(f"You chose {user_choice} and CPU chose scissors.")
         print("Scissors cut paper.")
         print("You Lost.")
@@ -54,7 +53,7 @@ def playing(turn: int, user_choice: str, cpu_choice: str) -> (int | None):
     return 1
 
 
-def main(turn: int):
+def main(turn: int) -> None:
     """ Entry point of the program.\n
     Args:
     \t:param turn: int, the turn being played"""
