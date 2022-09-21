@@ -1,0 +1,27 @@
+{
+    "editor.useTabStops": false,
+    "editor.snippetSuggestions": "top",
+    "python.linting.flake8Enabled": false,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "perflint",
+        "--rcfile",
+        "${workspaceFolder}/.pylintrc"
+    ],
+    "python.defaultInterpreterPath": "./.venv/bin/python",
+    "python.terminal.activateEnvironment": true,
+    // "python.terminal.activateEnvInCurrentTerminal": true,
+    "editor.defaultFormatter": "ms-python.vscode-pylance",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "python.envFile": "./.venv/bin/activate",
+    "code-runner.enableAppInsights": false,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.preserveFocus": false
+}
