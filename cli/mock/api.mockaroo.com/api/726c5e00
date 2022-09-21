@@ -1,0 +1,490 @@
+﻿id,first_name,last_name,email,gender,date_of_birth,career,affiliation,sport
+112-bb-5621,Aila,LEGGETT,aleggett@uni.edu,Bigender,03/05/1997,Engineering,Beta Mu,
+111-bb-3121,Shurlocke,SHERME,ssherme@uni.edu,Female,24/11/1996,Architecture,Beta Mu,Tennis
+111-da-2938,Giovanni,CARON,gcaron@uni.edu,Female,14/11/1998,Tourism & Catering,Tau Picore,Hockey
+111-cc-9723,Faith,OLLER,foller@uni.edu,Female,29/08/1998,IT,,
+111-ab-7118,Kelli,VAN LEEUWEN,kvanleeuwen@uni.edu,Male,09/01/1997,Psychology,Zeta Omega,
+112-ff-9072,Nerita,BRANDINO,nbrandino@uni.edu,Female,08/04/1996,Litterature & Linguistics,,
+111-de-3332,Kendre,WRINCH,kwrinch@uni.edu,Female,23/03/1997,Journalism,Nu Phi Lambda,
+112-dd-8077,Pedro,LABON,plabon@uni.edu,Male,09/03/1998,History,Nu Phi Lambda,
+111-aa-6404,Darsey,RODENBURG,drodenburg@uni.edu,Female,16/04/1996,Business Administration,,
+111-ce-3843,Deanne,DALLAGHAN,ddallaghan@uni.edu,Female,03/12/1996,Tourism & Catering,Beta Mu,Hockey
+112-de-6260,Sally,SEDWICK,ssedwick@uni.edu,Male,13/11/1997,Business Administration,,
+112-cb-8756,Pattie,MUSPRATT,pmuspratt@uni.edu,Male,27/11/1996,Finance,Zeta Omega,
+111-dc-7681,Chen,SCOONE,cscoone@uni.edu,Male,26/04/1997,Biotechnology,Nu Phi Lambda,
+111-ae-9476,Nissy,RHYMER,nrhymer@uni.edu,Male,18/12/1998,Litterature & Linguistics,,
+112-ed-8419,Lenette,CARTMILL,lcartmill@uni.edu,Male,11/11/1998,Chemistry,,Football
+112-ed-3797,Marley,BURMINGHAM,mburmingham@uni.edu,Bigender,09/09/1998,Psychology,Delta Magnus,Track & Field
+111-fb-8603,Florrie,MANTZ,fmantz@uni.edu,Male,10/04/1997,Law,Kappa Xi,
+111-fa-3655,Maegan,NANNINI,mnannini@uni.edu,Male,27/03/1996,IT,Tau Picore,
+112-fc-9772,Cybill,EGERTON,cegerton@uni.edu,Polygender,21/02/1997,IT,,
+112-fb-4442,Raffaello,SALZBURGER,rsalzburger@uni.edu,Female,25/06/1997,Business Administration,,
+112-cc-7876,Alica,ISSIT,aissit@uni.edu,Female,13/10/1997,Litterature & Linguistics,Tau Picore,
+111-bc-5182,Rosy,CRUNDEN,rcrunden@uni.edu,Female,01/11/1996,Biotechnology,Kappa Xi,
+111-be-2029,Johna,MOSES,jmoses@uni.edu,Female,26/07/1997,History,Beta Mu,Volleyball
+112-ca-8480,Noe,CISLAND,ncisland@uni.edu,Female,12/10/1998,History,Beta Mu,
+112-ef-6229,Olia,ASKAM,oaskam@uni.edu,Genderqueer,19/11/1998,Engineering,,Soccer
+111-eb-6929,Jocelin,HUCCABY,jhuccaby@uni.edu,Non-binary,16/11/1998,Law,Nu Phi Lambda,
+112-ab-3218,Ermin,TUMINI,etumini@uni.edu,Polygender,20/08/1998,Computer Science,,
+112-dd-5001,Pail,WORCESTER,pworcester@uni.edu,Male,25/02/1996,Mathematics,Pi Gamma Rho,
+111-fa-9840,Marta,BIRCKMANN,mbirckmann@uni.edu,Male,25/10/1998,History,,
+111-fd-5654,Juliette,GAVAN,jgavan@uni.edu,Female,23/09/1997,Engineering,,
+112-fa-8989,Olivia,VISTE,oviste@uni.edu,Non-binary,17/02/1997,Architecture,Delta Magnus,
+111-af-8385,Elvera,ALYUTIN,ealyutin@uni.edu,Male,18/05/1998,Computer Science,,Basketball
+112-df-4355,Pam,FEITOSA,pfeitosa@uni.edu,Male,21/02/1997,Finance,,
+111-fa-3179,Maddy,STYCH,mstych@uni.edu,Female,13/10/1998,Biotechnology,Nu Phi Lambda,Swimming
+111-ae-2678,Babita,ABBATI,babbati@uni.edu,Non-binary,08/01/1996,Art & Culture,,Tennis
+112-bb-7477,Karlie,LEVIS,klevis@uni.edu,Female,07/10/1996,Art & Culture,Kappa Xi,Gymnastics
+111-ce-7773,Beltran,SCRIMSHIRE,bscrimshire@uni.edu,Male,25/09/1998,Architecture,,
+112-ad-2153,Milena,NAPER,mnaper@uni.edu,Female,19/12/1997,Finance,,Swimming
+111-bc-8681,Becki,SPRINGTHORP,bspringthorp@uni.edu,Female,18/11/1997,History,,Gymnastics
+112-ce-5254,Sebastian,FLANNE,sflanne@uni.edu,Female,16/12/1998,Gastronomy,Beta Mu,Swimming
+111-ba-9023,Courtney,SHUARD,cshuard@uni.edu,Male,19/11/1997,Biotechnology,Pi Gamma Rho,
+112-cd-1453,Ellene,RIMOUR,erimour@uni.edu,Female,13/12/1998,Litterature & Linguistics,Kappa Xi,Tennis
+111-fd-1735,Kynthia,BRODHEAD,kbrodhead@uni.edu,Male,27/08/1996,Biotechnology,,Basketball
+111-cb-9489,Paulie,BREFFIT,pbreffit@uni.edu,Male,23/01/1998,Law,Nu Phi Lambda,
+112-fb-4062,Amye,POLSIN,apolsin@uni.edu,Female,20/12/1997,Chemistry,,Swimming
+111-bf-2622,Carree,DISSMAN,cdissman@uni.edu,Female,12/07/1996,Chemistry,,
+112-ef-8023,Kareem,WYE,kwye@uni.edu,Female,16/07/1996,History,,
+112-de-8472,Ennis,DOUGHTON,edoughton@uni.edu,Female,12/01/1996,Litterature & Linguistics,,
+112-ca-4977,Kurtis,FRICKEY,kfrickey@uni.edu,Male,15/04/1997,Gastronomy,,Tennis
+112-be-2158,Suzanne,COO,scoo@uni.edu,Male,15/06/1996,Business Administration,,
+111-fe-2830,Jonathon,LANDON,jlandon@uni.edu,Male,15/07/1997,Mathematics,,
+111-ee-1565,Tallulah,BEURICH,tbeurich@uni.edu,Female,07/01/1996,Finance,Tau Picore,Volleyball
+111-ec-3107,Onfroi,CORRO,ocorro@uni.edu,Male,18/10/1997,History,Zeta Omega,
+112-ab-7390,Rolland,ZANNELI,rzanneli@uni.edu,Female,09/08/1998,Chemistry,,
+111-df-8612,Kameko,FLIPPINI,kflippini@uni.edu,Female,11/04/1996,Biotechnology,,
+111-eb-1052,Nanette,MCKELLAR,nmckellar@uni.edu,Female,05/08/1998,Litterature & Linguistics,Kappa Xi,Tennis
+112-fc-8101,Shea,TOMKIES,stomkies@uni.edu,Male,14/06/1998,Business Administration,,Gymnastics
+111-dd-6253,Valentina,YAKUNIN,vyakunin@uni.edu,Female,07/09/1996,Medicine,Tau Picore,Hockey
+112-cb-4373,Mitzi,JEFFERYS,mjefferys@uni.edu,Female,12/09/1997,Art & Culture,,Hockey
+111-da-9905,Katee,KATTENHORN,kkattenhorn@uni.edu,Male,22/12/1998,Computer Science,,
+112-aa-7103,Asia,RUBINSAFT,arubinsaft@uni.edu,Male,19/03/1997,Business Administration,Tau Picore,Hockey
+111-cb-9443,Sherlock,FLEEMAN,sfleeman@uni.edu,Male,01/04/1997,Biotechnology,,
+112-ed-4670,Jsandye,PETRIE,jpetrie@uni.edu,Genderfluid,08/11/1997,Mathematics,Kappa Xi,
+112-cf-7763,Guthrey,NEWBERRY,gnewberry@uni.edu,Male,05/04/1998,Computer Science,Beta Mu,Hockey
+112-fc-1333,Maude,DOMENY,mdomeny@uni.edu,Male,27/01/1997,Medicine,Tau Picore,
+112-fb-6943,Mildrid,MULVAGH,mmulvagh@uni.edu,Male,23/04/1996,Finance,Beta Mu,
+111-fb-6862,Ax,DORSETT,adorsett@uni.edu,Female,09/10/1996,History,,
+111-fb-3943,Cherry,CORP,ccorp@uni.edu,Female,02/05/1996,Finance,Kappa Xi,
+111-dd-7823,Nada,BORRIS,nborris@uni.edu,Female,01/11/1997,Art & Culture,Kappa Xi,Basketball
+112-bd-8493,Gustie,BATTSON,gbattson@uni.edu,Male,17/06/1996,Engineering,Tau Picore,Football
+111-ed-2532,Tonie,BRUGEMANN,tbrugemann@uni.edu,Male,30/12/1998,Engineering,,Basketball
+112-bb-1162,Elle,ELLERY,eellery@uni.edu,Female,23/07/1996,Art & Culture,,
+111-ba-3638,Alida,SIER,asier@uni.edu,Female,01/08/1996,Chemistry,Beta Mu,
+111-ab-5832,Hedvig,RENAK,hrenak@uni.edu,Female,11/07/1998,Psychology,,
+111-bc-2439,Kenon,MACANDIE,kmacandie@uni.edu,Female,08/04/1997,Biotechnology,Kappa Xi,Tennis
+111-ba-6305,Carlyle,GENT,cgent@uni.edu,Male,04/02/1996,Computer Science,,Basketball
+112-bb-2272,Port,HENSMANS,phensmans@uni.edu,Female,07/04/1997,Mathematics,Nu Phi Lambda,
+112-ea-4673,Hart,GREEST,hgreest@uni.edu,Male,08/12/1997,Finance,Zeta Omega,Football
+112-dd-3961,Liz,GRITSKOV,lgritskov@uni.edu,Female,13/12/1998,Art & Culture,,
+112-ad-4781,Ilaire,SCHALL,ischall@uni.edu,Male,25/07/1996,Biotechnology,,
+112-db-8446,Abigail,ASSANTE,aassante@uni.edu,Female,04/02/1998,Psychology,,Swimming
+112-ec-4354,Issy,YOUENS,iyouens@uni.edu,Female,03/03/1998,Chemistry,Nu Phi Lambda,
+111-da-5817,Alice,SWEET,asweet@uni.edu,Female,29/09/1998,Engineering,,
+111-ef-3049,Herold,SPENLEY,hspenley@uni.edu,Female,15/04/1996,Litterature & Linguistics,,
+112-ea-7825,Karie,POATE,kpoate@uni.edu,Male,21/10/1997,Biotechnology,Beta Mu,
+111-ed-5283,Alfi,SKERRATT,askerratt@uni.edu,Female,11/08/1998,Finance,,
+111-fd-2355,Arri,WETWOOD,awetwood@uni.edu,Male,17/05/1997,Computer Science,,Tennis
+111-dd-8427,Ulla,DOMM,udomm@uni.edu,Female,02/07/1998,Litterature & Linguistics,,Swimming
+111-ff-5353,Matty,HICKIN,mhickin@uni.edu,Female,12/05/1996,Medicine,,
+112-fa-9725,Kym,MCCLENAN,kmcclenan@uni.edu,Bigender,08/07/1996,History,,Volleyball
+111-de-5946,Amity,CORONADO,acoronado@uni.edu,Female,26/08/1996,History,Beta Mu,
+111-ec-2404,Immanuel,LIVINGSTONE,ilivingstone@uni.edu,Female,02/11/1996,Engineering,,Swimming
+111-cf-2395,Kory,DOULL,kdoull@uni.edu,Female,06/09/1996,Art & Culture,Kappa Xi,
+112-ef-2663,Jessika,BARTOSZEK,jbartoszek@uni.edu,Female,25/05/1998,Business Administration,Beta Mu,Gymnastics
+112-bb-5354,Katee,BAIRSTOW,kbairstow@uni.edu,Female,31/05/1997,Journalism,,Volleyball
+111-dd-9509,Vito,WYELD,vwyeld@uni.edu,Male,09/05/1996,Law,,
+112-bd-8704,Maurise,COWDROY,mcowdroy@uni.edu,Female,03/11/1997,Journalism,,Martial Arts
+112-de-9972,Dari,DEETLOF,ddeetlof@uni.edu,Male,03/06/1996,Computer Science,Delta Magnus,Martial Arts
+111-df-2180,Iormina,RAIMBAULD,iraimbauld@uni.edu,Male,30/04/1996,Psychology,,Football
+112-cd-2533,Wynn,EXLEY,wexley@uni.edu,Male,18/11/1998,Psychology,,
+112-ac-4205,Noelani,EYEINGTON,neyeington@uni.edu,Male,10/01/1998,Law,,Martial Arts
+111-cc-4441,Mandy,BLAASCH,mblaasch@uni.edu,Female,10/12/1996,IT,,
+112-bb-6441,Klara,BULWARD,kbulward@uni.edu,Male,07/11/1996,Law,Delta Magnus,
+112-ac-7035,Kermit,DENNISTON,kdenniston@uni.edu,Male,20/09/1997,Physics,Delta Magnus,Football
+111-bc-5191,Miltie,SECZYK,mseczyk@uni.edu,Male,20/10/1997,Psychology,,
+112-be-7012,Lainey,GOMES,lgomes@uni.edu,Male,14/02/1996,Tourism & Catering,,
+111-ea-3816,Jonie,PILLEY,jpilley@uni.edu,Female,03/04/1996,IT,Beta Mu,
+112-bd-9144,Colet,COFFEE,ccoffee@uni.edu,Male,04/07/1998,Biotechnology,Zeta Omega,Basketball
+111-fa-2065,Jasmin,BURNAGE,jburnage@uni.edu,Female,23/09/1998,Biotechnology,,
+112-de-7477,Joelle,O' MEARA,jomeara@uni.edu,Female,13/10/1998,Art & Culture,Tau Picore,
+111-af-9102,Otis,JINDACEK,ojindacek@uni.edu,Male,16/12/1997,IT,,
+111-bd-3595,Abran,RENYARD,arenyard@uni.edu,Male,08/07/1997,Litterature & Linguistics,,
+111-bb-2451,Briant,MEASEN,bmeasen@uni.edu,Male,14/03/1996,Psychology,,Volleyball
+111-be-9569,Calhoun,SHOULER,cshouler@uni.edu,Female,06/12/1997,Journalism,Kappa Xi,Volleyball
+111-ca-3771,Ofelia,PLUM,oplum@uni.edu,Male,02/07/1997,Biotechnology,,
+112-fe-7591,Lucilia,OXBERRY,loxberry@uni.edu,Male,16/10/1998,Mathematics,Kappa Xi,
+111-ee-8743,Johnna,VAUN,jvaun@uni.edu,Female,05/02/1998,Tourism & Catering,Tau Picore,
+111-cf-3675,Alethea,GLAVIS,aglavis@uni.edu,Male,18/11/1997,Biotechnology,Delta Magnus,Football
+112-dc-1936,Win,VASISHCHEV,wvasishchev@uni.edu,Male,17/09/1996,IT,,Basketball
+111-bd-6497,Rhianna,ELLERMAN,rellerman@uni.edu,Agender,31/10/1998,Art & Culture,Nu Phi Lambda,Basketball
+112-ba-9275,Gloriana,PROSCHKE,gproschke@uni.edu,Male,22/06/1998,Business Administration,,
+111-bd-6466,Larry,KLUGER,lkluger@uni.edu,Male,17/03/1996,Law,,
+112-cb-8433,Bibi,CHOMICZ,bchomicz@uni.edu,Male,11/06/1996,History,,
+111-fb-4513,Elvyn,BRITNELL,ebritnell@uni.edu,Female,21/06/1997,Tourism & Catering,Nu Phi Lambda,
+112-df-7079,Agneta,HEAPHY,aheaphy@uni.edu,Female,05/12/1996,History,Beta Mu,
+111-aa-8612,Noam,CREAVEN,ncreaven@uni.edu,Female,28/12/1997,Finance,,
+112-bd-7477,Mildred,CAPRON,mcapron@uni.edu,Female,20/06/1998,History,Tau Picore,
+112-fd-7208,Reidar,FLAMANK,rflamank@uni.edu,Male,04/01/1997,Journalism,Tau Picore,Basketball
+111-ce-8395,Mickie,MATTSON,mmattson@uni.edu,Male,30/11/1998,Law,,
+112-ae-3454,Minne,BLAYLOCK,mblaylock@uni.edu,Male,12/10/1997,Mathematics,,Tennis
+112-fb-5287,Caritta,JOVOVIC,cjovovic@uni.edu,Male,15/02/1996,Computer Science,,Martial Arts
+111-fa-4752,Angela,LOVICK,alovick@uni.edu,Female,20/10/1998,Law,,Hockey
+111-aa-1257,Markus,SPREAD,mspread@uni.edu,Male,14/08/1996,Biotechnology,,
+112-fa-4731,Katharina,GROUNDWATOR,kgroundwator@uni.edu,Female,24/09/1998,Mathematics,Nu Phi Lambda,
+112-ca-8738,Nickola,AIM,naim@uni.edu,Male,23/12/1998,Law,,
+111-cb-6291,Trey,WOODRUFF,twoodruff@uni.edu,Female,20/04/1998,Business Administration,Nu Phi Lambda,
+111-cc-5958,Cheri,FEEHAM,cfeeham@uni.edu,Male,21/12/1996,Mathematics,,
+112-be-4328,Jammie,BARTEL,jbartel@uni.edu,Male,12/01/1998,Mathematics,,
+112-fb-2284,Bess,CATTONNET,bcattonnet@uni.edu,Male,03/06/1996,Mathematics,,Martial Arts
+112-fe-5657,Nil,ROTHER,nrother@uni.edu,Male,07/02/1998,Journalism,,Basketball
+112-cd-5562,Gus,CAMELL,gcamell@uni.edu,Female,11/11/1997,History,Tau Picore,
+111-eb-2512,Alvie,REBURN,areburn@uni.edu,Female,12/02/1997,Medicine,,
+112-da-9968,Kristo,MOCHAN,kmochan@uni.edu,Agender,01/01/1998,IT,,Martial Arts
+112-bc-1710,Erie,BERENS,eberens@uni.edu,Male,16/05/1998,Psychology,,Football
+112-cb-2177,Michele,DENSIE,mdensie@uni.edu,Female,26/12/1996,Business Administration,Kappa Xi,
+112-fa-8828,Mata,KELBIE,mkelbie@uni.edu,Male,11/04/1997,Law,Pi Gamma Rho,
+112-ec-7960,Anabal,FAIRBANK,afairbank@uni.edu,Female,29/04/1996,Computer Science,,Swimming
+112-fa-6813,Mignon,FARROW,mfarrow@uni.edu,Male,09/05/1996,Chemistry,Pi Gamma Rho,
+111-eb-9459,Emiline,ILLSLEY,eillsley@uni.edu,Bigender,29/01/1996,Medicine,,
+111-ab-9530,Dulcine,AMYES,damyes@uni.edu,Female,10/02/1997,Engineering,,Gymnastics
+112-ef-5298,Aleece,SHEVLIN,ashevlin@uni.edu,Agender,01/11/1997,Chemistry,Pi Gamma Rho,
+112-bc-5488,Roanna,ALPHONSO,ralphonso@uni.edu,Male,20/10/1997,Computer Science,,
+112-af-6203,Eddy,GODING,egoding@uni.edu,Female,28/12/1996,Psychology,,
+112-dd-5840,Ruggiero,PARFITT,rparfitt@uni.edu,Male,10/05/1996,Finance,,
+112-cf-9912,Joelynn,PRENE,jprene@uni.edu,Male,29/04/1998,Psychology,Beta Mu,Football
+112-ac-8356,Jeanelle,RIVERS,jrivers@uni.edu,Female,29/04/1996,Biotechnology,,Swimming
+111-ea-5174,Bertie,CHATTERTON,bchatterton@uni.edu,Male,10/02/1998,Journalism,Beta Mu,Volleyball
+112-aa-7865,Cyb,MARSIE,cmarsie@uni.edu,Male,16/01/1996,Chemistry,Delta Magnus,
+112-df-9492,Sherill,OLLARENSHAW,sollarenshaw@uni.edu,Male,30/09/1998,Finance,Zeta Omega,
+112-eb-7035,Martie,JOSEBURY,mjosebury@uni.edu,Female,28/08/1996,Law,,
+112-bb-3937,Kally,CRIMES,kcrimes@uni.edu,Male,06/05/1996,Litterature & Linguistics,,
+112-ca-1906,Barbra,KLEIMT,bkleimt@uni.edu,Female,19/08/1997,Tourism & Catering,Kappa Xi,
+111-dd-4628,Tam,BENKO,tbenko@uni.edu,Male,13/11/1997,IT,,Football
+111-ca-1698,Dacy,PITBLADDO,dpitbladdo@uni.edu,Female,18/09/1998,Litterature & Linguistics,,Hockey
+112-ca-2730,Ursa,KITTEMAN,ukitteman@uni.edu,Female,18/11/1996,Mathematics,Kappa Xi,
+112-ba-8490,Gardner,VELAREAL,gvelareal@uni.edu,Male,25/03/1998,Mathematics,,
+111-ff-5955,Jdavie,PALATINI,jpalatini@uni.edu,Male,23/03/1996,Business Administration,Nu Phi Lambda,
+111-cb-4671,Scottie,MCEVOY,smcevoy@uni.edu,Male,15/01/1997,Gastronomy,,Swimming
+111-ba-1278,Ellyn,GARLEY,egarley@uni.edu,Male,26/06/1996,Tourism & Catering,,
+111-db-2826,Carena,HILLITT,chillitt@uni.edu,Female,03/05/1997,Gastronomy,,Martial Arts
+111-ca-9592,Alexandrina,WAHNCKE,awahncke@uni.edu,Male,09/03/1996,Architecture,Zeta Omega,
+111-cc-8331,Adair,GIBBONS,agibbons@uni.edu,Male,24/06/1996,Mathematics,Zeta Omega,Hockey
+111-cf-5926,Vergil,CONDICT,vcondict@uni.edu,Female,06/10/1998,Business Administration,,
+111-ce-8505,Dalenna,ACKEROYD,dackeroyd@uni.edu,Male,03/04/1996,Tourism & Catering,Tau Picore,
+112-ed-2693,Lindsey,AYLIFF,layliff@uni.edu,Female,03/04/1998,Litterature & Linguistics,Tau Picore,
+111-be-9643,Glenn,MARKWELLEY,gmarkwelley@uni.edu,Female,25/07/1996,Mathematics,,Volleyball
+111-da-3747,Hy,MERRIGANS,hmerrigans@uni.edu,Male,13/11/1998,Journalism,,Basketball
+111-dc-2349,Hildegaard,ZANETTO,hzanetto@uni.edu,Male,16/01/1996,IT,,Basketball
+112-ee-1019,Lovell,SIRETT,lsirett@uni.edu,Bigender,28/09/1997,Art & Culture,,Football
+111-ed-7331,Dominic,WHITLEY,dwhitley@uni.edu,Female,28/09/1996,History,,Tennis
+112-fc-8231,Meggy,RENSHELL,mrenshell@uni.edu,Female,03/12/1996,IT,Kappa Xi,
+111-ba-7155,Lesley,SCOTERBOSH,lscoterbosh@uni.edu,Female,26/12/1997,Biotechnology,,Tennis
+112-bf-3929,Jehanna,BENTAME,jbentame@uni.edu,Female,02/03/1997,Finance,,Hockey
+112-ea-7065,Kaylyn,BLONDELLE,kblondelle@uni.edu,Male,26/04/1998,Computer Science,,Basketball
+112-fa-7576,Olivie,MOUNCHER,omouncher@uni.edu,Male,25/09/1998,Biotechnology,Zeta Omega,Hockey
+111-da-9064,Sid,ASHENHURST,sashenhurst@uni.edu,Bigender,28/07/1998,Art & Culture,,
+111-dc-6478,Constantina,KIGHTLY,ckightly@uni.edu,Female,27/12/1997,Art & Culture,,
+111-ed-7373,Hayes,NAPTON,hnapton@uni.edu,Female,11/12/1998,Biotechnology,,
+111-bb-4356,Genni,MATUSCHEK,gmatuschek@uni.edu,Male,03/07/1996,Engineering,,
+112-eb-2852,Addy,DE DOMENICIS,adedomenicis@uni.edu,Female,22/10/1996,Art & Culture,,Gymnastics
+112-ff-2970,Helene,KIEBES,hkiebes@uni.edu,Female,30/10/1996,Litterature & Linguistics,Beta Mu,
+111-dc-2339,Elbertina,VERRICO,everrico@uni.edu,Male,24/02/1997,Physics,,
+112-de-4767,Alane,DREWELL,adrewell@uni.edu,Female,30/01/1997,Tourism & Catering,,Tennis
+111-bb-8894,Cos,BORGNET,cborgnet@uni.edu,Male,29/03/1998,IT,,Hockey
+112-df-8961,Maxie,PEACHER,mpeacher@uni.edu,Female,21/02/1997,Medicine,Nu Phi Lambda,
+112-eb-8806,Kit,SCHROEDER,kschroeder@uni.edu,Male,17/04/1997,Mathematics,,Tennis
+111-be-3251,Carroll,AUBIN,caubin@uni.edu,Female,25/08/1996,Engineering,Nu Phi Lambda,Hockey
+111-ce-3976,Joshia,BRAIM,jbraim@uni.edu,Female,05/02/1996,Litterature & Linguistics,Tau Picore,Gymnastics
+112-ee-4844,Whitaker,FREAKE,wfreake@uni.edu,Female,14/09/1997,Architecture,,
+111-fa-5957,Cesare,KLAGGES,cklagges@uni.edu,Female,23/12/1996,Medicine,,Hockey
+111-fb-4229,Allyson,DI PIETRO,adipietro@uni.edu,Male,13/11/1996,Gastronomy,,
+111-dd-8865,Kassi,GARFIELD,kgarfield@uni.edu,Male,17/03/1998,Journalism,Zeta Omega,
+111-ae-4097,Abdul,MYNER,amyner@uni.edu,Female,14/07/1997,Art & Culture,,
+111-dc-6305,Yance,MADDICKS,ymaddicks@uni.edu,Female,21/09/1996,Gastronomy,,
+112-de-2759,Fayette,CORAIN,fcorain@uni.edu,Female,21/07/1997,Psychology,Nu Phi Lambda,
+112-de-5245,Galvin,BRENSTON,gbrenston@uni.edu,Male,25/04/1997,Law,,Basketball
+112-cf-7441,Cissy,KABISCH,ckabisch@uni.edu,Female,21/01/1996,History,Nu Phi Lambda,Gymnastics
+112-fe-2540,Brunhilde,TRUIN,btruin@uni.edu,Male,21/08/1996,Finance,,
+111-ee-1410,Karel,DWIGHT,kdwight@uni.edu,Male,13/01/1996,Business Administration,Tau Picore,Martial Arts
+112-bd-2895,Darlene,LITTLER,dlittler@uni.edu,Female,01/01/1997,Engineering,,
+112-bd-3332,Simona,SOUTHWICK,ssouthwick@uni.edu,Female,06/06/1998,History,Beta Mu,
+112-dc-7041,Ingeborg,TOMSA,itomsa@uni.edu,Male,06/11/1996,Engineering,,
+112-ef-4745,Teresa,BALMANN,tbalmann@uni.edu,Female,12/11/1998,Litterature & Linguistics,Nu Phi Lambda,
+111-de-7954,Tobit,ILYMANOV,tilymanov@uni.edu,Male,13/01/1996,Law,Kappa Xi,Gymnastics
+112-fd-3990,Teresa,DANIELLO,tdaniello@uni.edu,Genderqueer,15/03/1998,Engineering,,
+112-bc-7114,Pauli,GARTER,pgarter@uni.edu,Male,23/09/1996,Biotechnology,,
+112-eb-8507,Parnell,MIQUELET,pmiquelet@uni.edu,Female,14/12/1998,Tourism & Catering,,
+111-fd-3788,Frasco,MALE,fmale@uni.edu,Female,05/02/1998,Medicine,,
+111-ea-5168,Merrill,CARLING,mcarling@uni.edu,Male,22/02/1998,Finance,,
+111-fe-2075,Rozina,BROSCHEK,rbroschek@uni.edu,Male,28/10/1998,Gastronomy,,
+112-ed-4617,Benyamin,NOAKES,bnoakes@uni.edu,Genderqueer,16/09/1997,Gastronomy,,
+112-cd-3512,Deedee,FRASCONE,dfrascone@uni.edu,Male,21/08/1998,Art & Culture,Delta Magnus,
+111-fe-5760,Ulick,MACREDMOND,umacredmond@uni.edu,Non-binary,16/09/1998,Law,,Hockey
+111-da-5646,Collie,SHUCKSMITH,cshucksmith@uni.edu,Male,28/01/1998,Engineering,,
+111-ca-8951,Roscoe,ELLIOT,relliot@uni.edu,Male,14/05/1998,Law,,Basketball
+112-ae-2342,Edouard,TOFFTS,etoffts@uni.edu,Female,07/11/1997,Gastronomy,,Hockey
+111-aa-9608,Ernesta,TALL,etall@uni.edu,Male,04/10/1997,IT,Delta Magnus,
+111-bf-1401,Delly,PAXEFORD,dpaxeford@uni.edu,Female,25/07/1998,Computer Science,,
+112-db-4238,Garrard,CLIMSON,gclimson@uni.edu,Male,08/04/1998,Mathematics,,Football
+111-cf-1066,Datha,RALESTON,draleston@uni.edu,Female,14/03/1997,Computer Science,,
+112-ab-6079,Demetrius,GUILAEM,dguilaem@uni.edu,Female,12/01/1997,Biotechnology,,
+112-ff-8913,Sam,GRINHAM,sgrinham@uni.edu,Male,05/10/1996,Physics,Tau Picore,
+111-cc-5305,Husein,BENDALL,hbendall@uni.edu,Female,25/04/1998,Litterature & Linguistics,,Tennis
+111-da-9739,Moses,TRENHOLME,mtrenholme@uni.edu,Male,04/02/1997,Journalism,,Volleyball
+111-bb-8774,Marylou,SHEDDEN,mshedden@uni.edu,Male,16/05/1998,Journalism,,
+112-fe-2692,Abbot,DOE,adoe@uni.edu,Genderqueer,28/09/1997,Journalism,Kappa Xi,
+112-ea-4294,Renae,OLDER,rolder@uni.edu,Female,26/10/1997,Medicine,Nu Phi Lambda,
+111-bb-4597,Dukey,KESTER,dkester@uni.edu,Female,31/07/1997,Litterature & Linguistics,,
+112-cf-9220,Janetta,BROCKMAN,jbrockman@uni.edu,Female,08/09/1996,Computer Science,Nu Phi Lambda,Gymnastics
+112-bd-6530,Claire,ORGEE,corgee@uni.edu,Male,24/12/1996,Tourism & Catering,,Hockey
+112-ca-8453,Matias,DE LA EGLISE,mdelaeglise@uni.edu,Female,28/01/1997,Tourism & Catering,Nu Phi Lambda,Hockey
+112-da-9076,Isadore,EASBIE,ieasbie@uni.edu,Female,08/02/1997,Journalism,Kappa Xi,Basketball
+111-bf-6030,Maddie,MCAULEY,mmcauley@uni.edu,Male,10/09/1998,Chemistry,,Basketball
+111-ce-1061,Gal,CHIPPINDALE,gchippindale@uni.edu,Female,25/02/1998,Medicine,,
+112-da-1838,Sarita,DE BIASIO,sdebiasio@uni.edu,Female,18/12/1997,Engineering,,Gymnastics
+111-cc-1182,Haleigh,MILMITH,hmilmith@uni.edu,Female,03/01/1997,Art & Culture,Kappa Xi,Swimming
+112-be-7271,Werner,PETCHEY,wpetchey@uni.edu,Male,01/01/1996,Biotechnology,,Volleyball
+111-ca-2032,Sondra,CIRLOS,scirlos@uni.edu,Female,20/03/1998,Business Administration,,
+111-bb-8905,Shanon,CANFER,scanfer@uni.edu,Female,18/12/1997,History,,
+111-be-5086,Bruno,PITHCOCK,bpithcock@uni.edu,Female,30/05/1996,Psychology,,Martial Arts
+112-da-6083,Lorelle,HOULDEN,lhoulden@uni.edu,Female,29/06/1998,Architecture,,
+111-dd-7996,Dinah,BONDAR,dbondar@uni.edu,Female,04/09/1997,Architecture,,Swimming
+111-db-7877,Ryon,GRANSDEN,rgransden@uni.edu,Female,14/08/1997,Chemistry,,Tennis
+112-ef-6955,Crissy,EBBS,cebbs@uni.edu,Female,11/07/1998,Computer Science,Tau Picore,Martial Arts
+111-db-3802,Calli,HOGBEN,chogben@uni.edu,Male,16/06/1996,Mathematics,,Football
+112-cc-7034,Ali,ASHELFORD,aashelford@uni.edu,Female,24/08/1997,Mathematics,Beta Mu,
+111-fc-2773,Nadiya,ALLIOTT,nalliott@uni.edu,Male,10/07/1998,Engineering,Kappa Xi,Volleyball
+111-cd-6555,Granny,GRABEHAM,ggrabeham@uni.edu,Female,22/07/1998,Chemistry,,Hockey
+111-eb-1529,Jedediah,WICKLIFFE,jwickliffe@uni.edu,Male,12/04/1997,History,,
+111-ee-2054,Gregoire,OSTRICH,gostrich@uni.edu,Male,16/04/1998,Engineering,Zeta Omega,Martial Arts
+112-bc-1267,Valma,ZEALANDER,vzealander@uni.edu,Male,06/04/1998,Finance,,
+111-cb-4928,Mart,KENDREW,mkendrew@uni.edu,Male,08/08/1996,Biotechnology,Zeta Omega,
+111-fe-1207,Kathlin,BURR,kburr@uni.edu,Female,10/08/1997,Business Administration,,Gymnastics
+112-dc-7066,Rabi,BRANFORD,rbranford@uni.edu,Male,06/04/1996,Gastronomy,Pi Gamma Rho,
+111-bc-5581,Leigh,LINDE,llinde@uni.edu,Female,01/07/1996,Architecture,,
+112-ae-2894,Harmony,MINGASSON,hmingasson@uni.edu,Female,17/12/1996,Tourism & Catering,,
+112-ec-2437,Lincoln,GUERRERU,lguerreru@uni.edu,Male,18/10/1998,Architecture,,
+112-ca-6379,Jehu,LA WILLE,jlawille@uni.edu,Male,25/05/1997,Medicine,,Volleyball
+111-eb-2587,Danie,DELANY,ddelany@uni.edu,Male,13/11/1997,Engineering,Tau Picore,
+111-ab-8876,Bebe,TUPPENY,btuppeny@uni.edu,Genderqueer,01/07/1996,Computer Science,,
+111-fd-1321,Eustacia,GRAUNDISSON,egraundisson@uni.edu,Agender,30/08/1996,Business Administration,,
+112-fd-6925,Reynolds,MABBETT,rmabbett@uni.edu,Female,13/01/1996,Computer Science,Nu Phi Lambda,Volleyball
+111-ec-3403,Gib,PEDRIELLI,gpedrielli@uni.edu,Male,05/07/1998,History,Nu Phi Lambda,Swimming
+112-fe-1876,Othella,ANDREY,oandrey@uni.edu,Female,08/11/1996,Architecture,Kappa Xi,Hockey
+112-be-1894,Rodrick,OLUFSEN,rolufsen@uni.edu,Male,19/05/1998,Gastronomy,Zeta Omega,Basketball
+111-dc-2871,Borden,GEELAN,bgeelan@uni.edu,Male,08/02/1996,Medicine,Nu Phi Lambda,
+112-dc-8115,Mariejeanne,MULLORD,mmullord@uni.edu,Female,09/01/1996,Psychology,Tau Picore,
+111-ec-4269,Maggie,BUDDLE,mbuddle@uni.edu,Male,23/12/1996,Art & Culture,,Volleyball
+112-cf-8443,Sutherlan,LABRENZ,slabrenz@uni.edu,Male,24/07/1996,Biotechnology,,
+112-ca-6359,Whitman,SWAYSLAND,wswaysland@uni.edu,Female,25/02/1998,Tourism & Catering,,
+112-ca-4377,Salem,PEINKE,speinke@uni.edu,Male,16/04/1997,Litterature & Linguistics,,Martial Arts
+111-db-5199,Addi,TUCKEY,atuckey@uni.edu,Male,05/07/1996,Law,,
+111-ab-1886,Mikael,COSSAR,mcossar@uni.edu,Male,27/06/1998,Biotechnology,,Basketball
+111-ee-3502,Adrien,MCGAHERN,amcgahern@uni.edu,Female,13/08/1996,History,,
+111-ad-6692,Aldous,WORKES,aworkes@uni.edu,Male,08/10/1997,History,Nu Phi Lambda,
+111-da-4914,Reid,KENNARD,rkennard@uni.edu,Male,11/07/1998,Mathematics,,Basketball
+111-ff-2928,Milissent,BURLES,mburles@uni.edu,Male,02/02/1997,Gastronomy,Delta Magnus,
+111-ef-7077,Celestyn,WILLSMORE,cwillsmore@uni.edu,Female,17/11/1997,Mathematics,Tau Picore,
+111-de-9109,Cherise,STALLEY,cstalley@uni.edu,Polygender,31/12/1996,Journalism,Pi Gamma Rho,
+111-cb-7961,Ramona,MOCHAR,rmochar@uni.edu,Male,07/06/1998,Psychology,Beta Mu,Swimming
+111-ad-3516,Dagmar,BELVIN,dbelvin@uni.edu,Male,12/09/1997,Psychology,,
+112-fe-8650,Giusto,TROMAN,gtroman@uni.edu,Male,03/07/1998,Business Administration,,
+112-db-1270,Sanderson,BRIGHTEY,sbrightey@uni.edu,Female,28/10/1998,Medicine,,Gymnastics
+112-bf-5252,Frannie,MATVEIKO,fmatveiko@uni.edu,Male,18/01/1998,Engineering,,
+111-bf-3460,Teresina,OBENEY,tobeney@uni.edu,Agender,01/04/1996,Chemistry,,Football
+112-fe-3695,Gilbertina,WISDEN,gwisden@uni.edu,Female,19/12/1997,Psychology,,Swimming
+112-bd-5144,Lonna,SOMERSET,lsomerset@uni.edu,Non-binary,29/09/1996,Gastronomy,Tau Picore,
+112-da-2987,Cori,GOLLIN,cgollin@uni.edu,Male,03/03/1998,Psychology,Zeta Omega,
+111-ef-4816,Jeddy,BEDINHAM,jbedinham@uni.edu,Female,23/02/1996,IT,,
+111-bb-1201,Chicky,CALLOW,ccallow@uni.edu,Female,05/05/1997,Litterature & Linguistics,Kappa Xi,
+112-ef-3550,Dicky,FELL,dfell@uni.edu,Female,19/11/1998,Journalism,,
+111-de-8225,Donnie,ADCOCK,dadcock@uni.edu,Female,29/04/1996,Psychology,,
+112-bb-3679,Salem,OLIVETTA,solivetta@uni.edu,Genderqueer,25/06/1997,Physics,Pi Gamma Rho,Gymnastics
+111-df-2279,Konstantine,CAMIN,kcamin@uni.edu,Female,25/01/1998,Business Administration,Tau Picore,Swimming
+112-fc-3542,Mariette,FRANZOTTO,mfranzotto@uni.edu,Male,15/12/1996,Engineering,,
+112-ed-6331,Llewellyn,VOWELLS,lvowells@uni.edu,Female,20/01/1998,History,,
+112-cd-4869,Daniel,GAENOR,dgaenor@uni.edu,Female,28/08/1997,Biotechnology,,
+112-ab-7440,Boote,MIGNOT,bmignot@uni.edu,Male,25/03/1997,Art & Culture,Nu Phi Lambda,Swimming
+112-ed-9270,Harold,LASSETER,hlasseter@uni.edu,Male,05/10/1997,IT,,
+112-bb-8023,Laurie,GOUNIN,lgounin@uni.edu,Female,19/12/1998,Tourism & Catering,,
+112-ea-1489,Danella,HADLOW,dhadlow@uni.edu,Female,16/11/1997,History,,Martial Arts
+111-bb-9455,Rhodia,ARNOWITZ,rarnowitz@uni.edu,Female,05/03/1998,IT,,Tennis
+111-ad-1575,Tessie,WICKEY,twickey@uni.edu,Male,19/08/1998,History,Zeta Omega,Martial Arts
+111-ad-8058,Luciano,SCARBARROW,lscarbarrow@uni.edu,Female,27/07/1998,Journalism,,Hockey
+112-cd-8692,Stafford,JOSSUM,sjossum@uni.edu,Female,20/07/1996,Law,Kappa Xi,
+111-ce-2296,Augy,TOOP,atoop@uni.edu,Female,20/06/1998,Biotechnology,,
+112-fa-1877,Bealle,WINDMILL,bwindmill@uni.edu,Male,05/02/1998,Finance,,Hockey
+112-dc-8786,Tynan,SEDCOLE,tsedcole@uni.edu,Agender,28/10/1996,Mathematics,,Soccer
+112-bd-6639,Hallie,YANUK,hyanuk@uni.edu,Male,25/07/1997,IT,Zeta Omega,Tennis
+111-fc-8146,Wilhelm,MERCIK,wmercik@uni.edu,Polygender,14/09/1996,Law,Beta Mu,
+111-ab-5935,Marty,ENDERWICK,menderwick@uni.edu,Polygender,02/10/1996,Architecture,,Hockey
+112-cc-5713,Julio,CONRATH,jconrath@uni.edu,Male,12/08/1998,Business Administration,Kappa Xi,Basketball
+111-ba-9086,Coralie,MCNELIS,cmcnelis@uni.edu,Female,01/01/1998,Law,,
+111-ee-9129,Cammy,BLACKLEDGE,cblackledge@uni.edu,Male,23/05/1997,Journalism,Kappa Xi,
+111-dd-2201,Rabbi,KRAUT,rkraut@uni.edu,Genderqueer,06/06/1996,Art & Culture,Tau Picore,
+111-ac-8582,Alicea,WANSBURY,awansbury@uni.edu,Female,03/02/1996,Medicine,,
+111-cb-7073,Lionello,RHUBOTTOM,lrhubottom@uni.edu,Male,29/12/1996,Finance,,Tennis
+111-ed-5406,Valma,PINIUR,vpiniur@uni.edu,Genderqueer,06/12/1996,Finance,Nu Phi Lambda,
+111-ff-7538,Maximo,LALEVEE,mlalevee@uni.edu,Male,24/05/1996,Chemistry,Nu Phi Lambda,
+112-bb-8507,Jorgan,MATUSEVICH,jmatusevich@uni.edu,Non-binary,16/10/1997,Gastronomy,Pi Gamma Rho,Hockey
+112-fb-7866,Emory,OAKWELL,eoakwell@uni.edu,Male,22/01/1996,Mathematics,,
+111-cc-2593,Merrielle,ROBERTZ,mrobertz@uni.edu,Female,23/03/1997,Biotechnology,,Tennis
+111-ef-6910,Panchito,DOLLING,pdolling@uni.edu,Female,07/03/1997,Psychology,,
+112-fe-7618,Kiel,CASSELLS,kcassells@uni.edu,Female,23/11/1996,Chemistry,Nu Phi Lambda,
+111-ae-1480,Isac,CAULDWELL,icauldwell@uni.edu,Female,31/01/1997,Finance,Nu Phi Lambda,
+112-bf-9715,Foss,SINCLAR,fsinclar@uni.edu,Male,05/12/1997,Architecture,,
+112-fc-3269,Arleyne,BATTEY,abattey@uni.edu,Polygender,25/11/1998,History,,Football
+112-aa-2315,Melinde,MONCREIF,mmoncreif@uni.edu,Female,16/09/1998,Law,Nu Phi Lambda,
+111-ac-9786,Kip,VASILYEVSKI,kvasilyevski@uni.edu,Male,09/05/1998,Mathematics,Nu Phi Lambda,
+112-aa-8224,Cicely,CHESS,cchess@uni.edu,Male,20/05/1997,Architecture,,
+111-ec-6212,Dacie,PENNICARD,dpennicard@uni.edu,Male,27/11/1996,Journalism,Delta Magnus,Football
+111-ef-1978,Jacklyn,CORDEL,jcordel@uni.edu,Female,31/08/1997,IT,Nu Phi Lambda,
+111-fb-2827,Mitch,NELLES,mnelles@uni.edu,Male,04/04/1997,History,,
+111-ff-3554,Katusha,MARCISKEWSKI,kmarciskewski@uni.edu,Male,27/12/1996,Architecture,,Tennis
+111-be-6358,Aleta,RADDISH,araddish@uni.edu,Female,19/02/1997,IT,,Tennis
+112-cf-6201,Deirdre,PATTERFIELD,dpatterfield@uni.edu,Female,19/08/1998,Medicine,,
+112-ad-2259,Lief,SHARMA,lsharma@uni.edu,Female,29/12/1998,Psychology,Tau Picore,
+112-cb-9625,Garrek,ALEXANDERSSON,galexandersson@uni.edu,Female,21/01/1997,Gastronomy,,
+112-aa-6596,Aliza,MACKISON,amackison@uni.edu,Genderfluid,11/07/1998,Art & Culture,,Track & Field
+111-aa-1612,Camile,MITHUN,cmithun@uni.edu,Male,02/04/1996,Mathematics,,Martial Arts
+111-ab-7443,Leeland,TIFT,ltift@uni.edu,Female,18/05/1997,Art & Culture,,
+111-fa-7391,Lia,BAINE,lbaine@uni.edu,Male,17/01/1998,Biotechnology,,
+112-ae-5050,Olympia,LAVRICK,olavrick@uni.edu,Male,13/09/1998,Computer Science,Delta Magnus,Swimming
+111-ba-5969,Aliza,DENYER,adenyer@uni.edu,Male,30/04/1997,Business Administration,,Gymnastics
+111-dd-5166,Karalynn,WAYMONT,kwaymont@uni.edu,Male,27/10/1996,Architecture,,Football
+112-ee-5308,Berget,BROMET,bbromet@uni.edu,Male,16/07/1998,History,,
+111-bd-9241,Wells,INETT,winett@uni.edu,Female,19/10/1998,History,,
+112-fd-6095,Bobina,RICARD,bricard@uni.edu,Male,19/03/1998,Biotechnology,,Football
+111-fd-2024,Ofella,POND-JONES,opond-jones@uni.edu,Female,30/05/1997,IT,,Martial Arts
+111-ee-9244,Demetra,WILLGOSS,dwillgoss@uni.edu,Female,09/05/1996,Psychology,,Volleyball
+112-be-6793,Tobiah,HARDINGE,thardinge@uni.edu,Female,22/12/1998,Medicine,,Swimming
+112-fb-8851,Alaine,TAGGETT,ataggett@uni.edu,Male,09/02/1998,Engineering,,Swimming
+111-de-1990,Bronny,DJORVIC,bdjorvic@uni.edu,Female,16/04/1996,Art & Culture,Nu Phi Lambda,
+112-df-1011,Amye,HOLLOWS,ahollows@uni.edu,Female,05/01/1998,Medicine,Tau Picore,
+111-bc-3883,Packston,DE LLOYD,pdelloyd@uni.edu,Male,20/02/1996,Gastronomy,Nu Phi Lambda,Football
+111-ce-9433,Christophe,PLEVEY,cplevey@uni.edu,Female,09/09/1998,Engineering,Beta Mu,Volleyball
+111-ba-8237,Luce,WRIGLEY,lwrigley@uni.edu,Male,18/07/1998,Biotechnology,,Volleyball
+111-bc-2675,Ralph,BOULTWOOD,rboultwood@uni.edu,Female,16/02/1997,Physics,Tau Picore,
+112-ac-5747,Heinrick,LEADBEATTER,hleadbeatter@uni.edu,Male,29/08/1996,History,Delta Magnus,Tennis
+111-cc-4629,Emile,MYTON,emyton@uni.edu,Female,31/03/1998,Tourism & Catering,Nu Phi Lambda,
+111-ea-7091,Thom,LYAL,tlyal@uni.edu,Female,20/09/1997,Journalism,,
+111-bb-2770,Doloritas,NIPPER,dnipper@uni.edu,Female,18/11/1997,History,,
+112-df-8568,Jelene,SHURMAN,jshurman@uni.edu,Male,17/12/1996,Journalism,Zeta Omega,Swimming
+112-fe-4891,Cate,MECHEM,cmechem@uni.edu,Female,19/04/1996,Medicine,Beta Mu,
+111-ca-4661,Candide,DARBON,cdarbon@uni.edu,Female,05/11/1998,History,Nu Phi Lambda,Hockey
+112-de-7044,Austina,GUILLIATT,aguilliatt@uni.edu,Female,08/06/1998,Medicine,,
+111-be-3667,Camille,ELLERMAN,cellerman@uni.edu,Male,20/01/1998,Litterature & Linguistics,,
+112-dc-9153,Jobye,HYNES,jhynes@uni.edu,Agender,04/02/1996,Journalism,,
+111-cc-9782,Rustin,MUNDELL,rmundell@uni.edu,Female,23/11/1997,Mathematics,,
+112-ae-7858,Freida,CURTOYS,fcurtoys@uni.edu,Male,13/11/1998,IT,,
+111-ba-6162,Flint,SPOURE,fspoure@uni.edu,Female,05/06/1996,Business Administration,Kappa Xi,
+112-ba-4155,Annecorinne,SLATTEN,aslatten@uni.edu,Female,18/12/1996,History,Kappa Xi,
+112-ac-5022,Blithe,KNOWLTON,bknowlton@uni.edu,Polygender,04/01/1996,Biotechnology,Delta Magnus,Football
+111-db-4976,Annabell,WOODRUFF,awoodruff@uni.edu,Male,12/02/1997,Finance,Tau Picore,
+112-bb-6744,Koralle,NIVEN,kniven@uni.edu,Bigender,09/09/1997,History,,
+112-bd-8185,Christabel,IACIVELLI,ciacivelli@uni.edu,Female,21/12/1997,Mathematics,,
+112-ed-3915,Angie,PASSBY,apassby@uni.edu,Polygender,03/04/1996,Engineering,Tau Picore,Swimming
+112-aa-8942,Issiah,LOWY,ilowy@uni.edu,Female,22/04/1997,Litterature & Linguistics,Nu Phi Lambda,Gymnastics
+111-db-4170,Hailee,TRUNDLE,htrundle@uni.edu,Male,03/02/1998,Psychology,,Basketball
+111-ea-3950,Bernardina,MEIKLEJOHN,bmeiklejohn@uni.edu,Female,21/10/1998,Psychology,,Basketball
+111-ba-2929,Bary,WORMS,bworms@uni.edu,Male,08/06/1997,Mathematics,,
+111-fb-6180,Lowrance,ATCOCK,latcock@uni.edu,Male,26/03/1997,IT,,Martial Arts
+112-dd-8081,Antonetta,BURLEIGH,aburleigh@uni.edu,Male,17/01/1997,Architecture,Pi Gamma Rho,Volleyball
+112-ca-3739,Maude,DUDDING,mdudding@uni.edu,Male,27/08/1997,Computer Science,Kappa Xi,
+111-af-7393,Roderick,ATWEL,ratwel@uni.edu,Genderfluid,09/03/1997,Journalism,Beta Mu,
+111-bd-8093,Gillie,TREGIDGO,gtregidgo@uni.edu,Female,01/05/1997,Law,Nu Phi Lambda,
+112-ca-2614,Anabella,MCILRAITH,amcilraith@uni.edu,Female,21/10/1997,Engineering,Beta Mu,Swimming
+112-cb-5322,Sallee,MAYKIN,smaykin@uni.edu,Female,14/11/1998,Medicine,Nu Phi Lambda,
+112-be-8381,Augustine,VONDRACEK,avondracek@uni.edu,Male,11/05/1996,IT,,Gymnastics
+112-df-2597,Birk,MATTEI,bmattei@uni.edu,Female,04/11/1996,Tourism & Catering,,Martial Arts
+111-df-1215,Robbi,RICKIS,rrickis@uni.edu,Female,12/12/1998,Art & Culture,,
+112-fa-5984,Rick,MCGUFF,rmcguff@uni.edu,Female,16/01/1996,Art & Culture,Tau Picore,
+111-dc-3545,Diane,OLIVAS,dolivas@uni.edu,Bigender,27/08/1996,Finance,,
+112-cf-1730,Nichole,KONNEKE,nkonneke@uni.edu,Male,07/06/1997,Mathematics,,
+111-cc-4716,Emmerich,HARP,eharp@uni.edu,Genderfluid,03/03/1996,IT,Pi Gamma Rho,
+112-fc-3510,Justine,TRIPLOW,jtriplow@uni.edu,Male,08/02/1998,Architecture,,
+112-ff-3952,Ursula,ECK,ueck@uni.edu,Male,03/06/1996,Journalism,Beta Mu,
+112-cd-8862,Gaspard,BLANCOWE,gblancowe@uni.edu,Male,12/07/1996,Law,,
+112-dd-8781,Sibyl,CHALLENDER,schallender@uni.edu,Female,02/02/1996,Litterature & Linguistics,,Hockey
+111-ce-3101,Blondy,KULLMANN,bkullmann@uni.edu,Female,22/04/1996,Art & Culture,Beta Mu,
+111-bf-6636,Tobi,LETHBURY,tlethbury@uni.edu,Male,07/11/1997,Computer Science,,Football
+111-ae-1384,Oralee,GREBER,ogreber@uni.edu,Genderfluid,27/07/1997,History,,Soccer
+112-ee-5803,Georgianna,ROMNEY,gromney@uni.edu,Female,09/06/1998,Tourism & Catering,,
+112-fe-3629,Rebbecca,FOOTER,rfooter@uni.edu,Female,26/05/1997,Law,Kappa Xi,
+112-fe-7369,Allegra,ARNHOLDT,aarnholdt@uni.edu,Female,06/08/1996,Psychology,,Hockey
+112-cd-4200,Onofredo,BAUSOR,obausor@uni.edu,Female,28/01/1998,Medicine,Kappa Xi,Volleyball
+111-ae-4547,Karlee,MALLIA,kmallia@uni.edu,Female,17/02/1998,Gastronomy,,Gymnastics
+112-ca-9964,Tracy,BELDEN,tbelden@uni.edu,Male,16/01/1996,Journalism,,Martial Arts
+112-cf-9690,Abbi,WATERFALL,awaterfall@uni.edu,Male,19/06/1997,Law,Zeta Omega,Swimming
+112-db-4474,Alice,GIRTIN,agirtin@uni.edu,Female,06/06/1996,Law,Tau Picore,
+111-fc-7819,Lillis,INSTON,linston@uni.edu,Female,28/04/1997,IT,,Gymnastics
+111-ac-4549,Jayme,BRENTON,jbrenton@uni.edu,Male,19/11/1997,Gastronomy,Tau Picore,Martial Arts
+112-bf-1478,Cosetta,KEDIE,ckedie@uni.edu,Male,29/08/1998,Art & Culture,,Gymnastics
+111-ac-4558,Garrick,KINGSWOOD,gkingswood@uni.edu,Female,31/12/1997,Gastronomy,Beta Mu,Swimming
+112-cb-9538,Bowie,GODSAL,bgodsal@uni.edu,Female,23/05/1997,Art & Culture,Nu Phi Lambda,Tennis
+111-de-9375,Jaquelyn,CURNICK,jcurnick@uni.edu,Male,21/10/1997,Physics,Tau Picore,
+111-fa-1282,Clarabelle,KITTER,ckitter@uni.edu,Male,16/08/1998,Finance,,Martial Arts
+111-ac-3891,Dickie,COULSON,dcoulson@uni.edu,Female,06/08/1996,Medicine,Kappa Xi,Hockey
+111-ff-7487,Farrah,VERRALL,fverrall@uni.edu,Female,22/09/1997,Psychology,,Hockey
+112-df-3803,Adiana,REGGIO,areggio@uni.edu,Male,18/03/1996,Finance,,Martial Arts
+111-fc-7007,Shalom,ROSBOROUGH,srosborough@uni.edu,Male,03/01/1996,IT,Zeta Omega,Football
+111-ef-4073,Anson,FIDELUS,afidelus@uni.edu,Male,09/04/1998,IT,,
+112-bb-9587,Luke,GLUYAS,lgluyas@uni.edu,Female,19/04/1998,Medicine,,
+112-cc-7487,Benita,BATTY,bbatty@uni.edu,Female,23/01/1997,Computer Science,,Hockey
+111-db-4286,Tristan,GECKS,tgecks@uni.edu,Male,21/08/1996,Mathematics,,
+112-de-9846,Bernelle,NISE,bnise@uni.edu,Agender,25/04/1996,Tourism & Catering,,
+112-ad-1840,Zebadiah,RUBINOWICZ,zrubinowicz@uni.edu,Polygender,06/07/1998,Finance,Nu Phi Lambda,
+111-dd-6842,Dugald,COY,dcoy@uni.edu,Male,22/02/1996,IT,Kappa Xi,Tennis
+111-ee-5688,Inga,POORE,ipoore@uni.edu,Male,07/02/1996,Mathematics,Tau Picore,
+111-fa-1612,Giusto,SAILE,gsaile@uni.edu,Female,26/08/1998,Computer Science,,
+111-cc-6229,Cacilie,MATTSSON,cmattsson@uni.edu,Female,16/12/1997,Medicine,,Tennis
+111-db-6578,Godfry,GROOBY,ggrooby@uni.edu,Male,24/02/1998,Mathematics,Kappa Xi,Football
+112-ab-4514,Grete,KOVALSKI,gkovalski@uni.edu,Male,02/09/1998,Law,Nu Phi Lambda,
+111-fc-6139,Eduard,HYNARD,ehynard@uni.edu,Female,13/04/1996,Finance,Beta Mu,
+112-fe-7536,Johannes,CUPITT,jcupitt@uni.edu,Female,23/12/1998,Art & Culture,,Hockey
+112-dc-1943,Tove,SEAMON,tseamon@uni.edu,Female,04/04/1996,Tourism & Catering,,Basketball
+111-df-1063,Valentin,ZECCHINELLI,vzecchinelli@uni.edu,Female,13/04/1996,Tourism & Catering,,
+111-ef-7358,Alisa,CLEMMENSEN,aclemmensen@uni.edu,Male,11/04/1998,Psychology,,
+112-ca-8423,Tamarah,GILLOPP,tgillopp@uni.edu,Male,06/02/1997,Computer Science,,Martial Arts
+112-ce-3525,Wolf,CUNIO,wcunio@uni.edu,Male,01/01/1997,Medicine,,Basketball
+111-ee-4349,Sorcha,LANDSBURY,slandsbury@uni.edu,Female,26/06/1998,Law,,Basketball
+112-df-8242,Valdemar,HAVILL,vhavill@uni.edu,Female,16/02/1996,History,Kappa Xi,Swimming
+112-ae-8422,Izak,KINNY,ikinny@uni.edu,Bigender,20/02/1998,Journalism,,
+112-ad-5908,Caz,KEDDLE,ckeddle@uni.edu,Female,19/03/1997,Biotechnology,Kappa Xi,
+111-ab-7052,Haley,KYD,hkyd@uni.edu,Female,21/07/1998,Litterature & Linguistics,Beta Mu,
+112-fc-3395,Wake,STIFE,wstife@uni.edu,Female,13/09/1997,Law,,Gymnastics
+111-cb-8569,Raynell,DUNSMUIR,rdunsmuir@uni.edu,Male,30/06/1997,Law,,Hockey
+112-de-5174,Verna,COMOLETTI,vcomoletti@uni.edu,Female,10/11/1996,Art & Culture,,Hockey
+111-ed-4945,Casi,ROBOTTOM,crobottom@uni.edu,Female,11/12/1997,Art & Culture,,Gymnastics
+111-ca-2963,Andriana,HARRELL,aharrell@uni.edu,Female,07/09/1998,Tourism & Catering,,Tennis
+112-ac-7716,Jean,JOUANNIN,jjouannin@uni.edu,Female,28/11/1997,Journalism,Beta Mu,
+111-ed-2620,Issy,DUTSON,idutson@uni.edu,Male,03/01/1998,Engineering,,
+112-fc-1535,Flory,TOOGOOD,ftoogood@uni.edu,Polygender,10/10/1997,Mathematics,,
+112-eb-8228,Raimondo,SWINBOURNE,rswinbourne@uni.edu,Female,18/03/1998,Tourism & Catering,,
+112-af-1197,Lorena,JAKUBOVICS,ljakubovics@uni.edu,Female,18/07/1996,History,,Hockey
+112-ce-4987,Raychel,COOMES,rcoomes@uni.edu,Male,04/07/1996,IT,,
+111-eb-7965,Vincent,PENDRE,vpendre@uni.edu,Male,10/06/1998,Computer Science,,
+112-ff-5761,Bert,SCHOLE,bschole@uni.edu,Female,24/09/1998,Art & Culture,Beta Mu,Tennis
+112-da-6875,Fair,DURIE,fdurie@uni.edu,Male,26/08/1996,Psychology,Zeta Omega,
+112-ad-4245,Gina,FANN,gfann@uni.edu,Male,26/09/1997,Chemistry,,Gymnastics
+111-bb-8865,Evie,ANTOSHIN,eantoshin@uni.edu,Female,24/02/1998,Medicine,,Hockey
+112-be-7633,Burton,PHILLIPS,bphillips@uni.edu,Male,03/04/1997,Journalism,,Basketball
+111-ba-1244,Nicolai,HUGIN,nhugin@uni.edu,Male,18/12/1997,Business Administration,Kappa Xi,Martial Arts
+111-fc-9250,Ollie,MENAULT,omenault@uni.edu,Female,15/01/1996,IT,Beta Mu,Swimming
+111-ee-9586,Peggie,CORNFIELD,pcornfield@uni.edu,Female,22/05/1996,Tourism & Catering,Nu Phi Lambda,Volleyball
+112-fb-4251,Davin,GORETTI,dgoretti@uni.edu,Male,15/02/1998,Mathematics,,Swimming
+111-cb-7510,Frieda,APLIN,faplin@uni.edu,Male,28/04/1996,History,,
+111-cc-4460,Johny,IVASHINNIKOV,jivashinnikov@uni.edu,Female,19/06/1997,IT,,
+112-cf-1883,Antonino,THIEME,athieme@uni.edu,Genderfluid,22/03/1996,Litterature & Linguistics,,Football
+112-ae-3878,Isis,HASLUM,ihaslum@uni.edu,Female,22/01/1997,Physics,,Martial Arts
+111-cf-7347,Zena,JOCHENS,zjochens@uni.edu,Female,05/02/1996,Art & Culture,Kappa Xi,Tennis
+112-eb-5386,Estrella,VASSEL,evassel@uni.edu,Female,12/05/1997,History,,Basketball
+112-df-8344,Agnesse,HIGGOE,ahiggoe@uni.edu,Female,26/04/1996,Tourism & Catering,Kappa Xi,Volleyball
+111-ae-7348,Barnabas,DOLLE,bdolle@uni.edu,Male,06/01/1998,Gastronomy,,
+112-fe-7526,Auberon,GRIFFITHE,agriffithe@uni.edu,Agender,29/05/1998,Psychology,Zeta Omega,Basketball
+112-aa-9842,Keen,ENDECOTT,kendecott@uni.edu,Female,04/02/1996,History,,Gymnastics
+111-df-6487,Rosalie,ZAVATTIERO,rzavattiero@uni.edu,Female,13/07/1997,IT,,Hockey
+111-aa-3491,Mordecai,JZAK,mjzak@uni.edu,Female,03/09/1998,Physics,,Basketball
+112-ea-9186,Rustie,HEARTFIELD,rheartfield@uni.edu,Female,21/03/1998,Journalism,,Basketball
