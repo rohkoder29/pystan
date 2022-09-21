@@ -1,0 +1,9 @@
+jo.forward(100)
+jo.left(45)
+jo.forward(100)
+jo.left(135)
+jo.forward(100)
+jo.left(45)
+jo.forward(100)
+#
+jo.home()
