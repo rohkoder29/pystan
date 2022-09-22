@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
   A nice CLI-based game to guess a randomly generated number between 0 and 100 (including both endpoints).
-  You have 10 attempts to guess the number. Guess it before then like a Boss or lose like a perky little b!tch.
+  You have 10 attempts to guess that number. Guess it before then like a Boss or lose like a perky little b!tch.
   version 1.2
 
   TODO: (version 1.3) number of attempts to be the result of the implementation of the Binary Search algorithm

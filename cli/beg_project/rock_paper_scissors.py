@@ -68,5 +68,5 @@ def main(turn: int) -> None:
 if __name__ == "__main__":
     print("\n\tWELCOME TO THE ROCK PAPER SCISSORS GAME\n")
     options = ["rock", "paper", "scissors"]
-    RPS = 0     # RPS => Rock Paper Scissors
+    RPS = 0     # RPS => Rock | Paper | Scissors
     main(RPS)
