@@ -10,8 +10,6 @@ __license__ = 'MIT'
 
 # import
 
-from xml import dom
-
 
 class Domino:
     def __init__(self, cote_1, cote_2) -> None:
