@@ -1,0 +1,53 @@
+Notes for the ongoing project
+
+- initiation of the project
+
+what do you need to create a password manager in python?
+- in general, good understanding of cryptography, hashing, encryption, and CRUD operation for database storing...
+- for the code part, their respective python libraries/modules set
+
+some important/necessary/useful modules are:
+hashlib
+bcrypt
+argon2??
+cryptography
+uuid
+secrets
+pycryptodome
+timedate*
+sqlite3 (database)
+and so on...
+
+the first thing to do upon receiving/generating the password is to create its hash
+then we go on and salt it (the hash)
+or better yet, we generate the salt, preppend it to the password and THEN hash them together!
+but always keep track of the salt, maybe put it next to the password in the db
+or create a whole new one just for the sake of pissing off hackers... (?)
+
+we gotta make sure when adding data to the db,
+to avoid SQL injection attacks...
+
+
+HOW WE STORE THE PASSWORD IN THE DATABASE:
+
+1 - we receive the password from the user (or generate one)
+2 - we generate a random secure salt which is associated with the password
+3 - we compute the mix of the password and the salt
+4 - we encrypt the hash using the pepper (pepper is db-wide)
+5 - and then we store the peppered hash in the database
+
+HOW WE VALIDATE PASSWORD WHEN USER LOGS IN
+
+1 - we receive the username and password
+2 - we query the DB for the username and fetch the corresponding salt
+3 - we compute the hash of the password provided with the salt from the DB
+4 - we decrypt the hash using the pepper
+5 - we compare the hashes, if they're identical then password is correct
+
+
+
+
+
+
+
+
